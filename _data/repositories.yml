@@ -1,12 +1,5 @@
 github_users:
-  - torvalds
   - baijinming97
 
 github_repos:
   - baijinming97/homepage
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
